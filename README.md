@@ -8,7 +8,6 @@ I explore Python, artificial intelligence, game development, digital design, and
 
 I'm still learning, but I bring curiosity, creativity, and a planner's mindset to the things I build.
 
-![Profile views](https://komarev.com/ghpvc/?username=hot-hilux21&label=Profile%20views&color=0e75b6&style=flat)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
@@ -33,7 +32,7 @@ I'm building this idea with accessibility at its core.
 **Feedback is welcome!** I'd especially appreciate suggestions from developers, accessibility advocates, and people who use assistive technology.
 
 <!-- Replace YOUR-REPOSITORY with your actual repository name. -->
-[Explore Accessible Coding](https://github.com/hot-hilux21/YOUR-REPOSITORY)
+[Explore Accessible Coding](https://github.com/hot-hilux21/accessible-coding)
 
 ---
 
@@ -66,9 +65,9 @@ I'm also a gamer, digital designer, and hobbyist game developer.
 
 I enjoy experimenting with new ideas and working on different projects.
 
-I like helping people, sharing ideas, and supporting other creators.
+I like helping people, taking leadership and bringing impact to those around me, sharing ideas, and supporting other creators.
 
-And yes, I can spend a little too much time gaming. 💀
+And yes, I am a sweaty gamer. 💀
 
 ---
 
