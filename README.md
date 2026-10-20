@@ -1,37 +1,109 @@
-# Hi 👋, I'm Hilux The Pickup Truck
+# 👋 Hey, I'm Hilux The Pickup Truck
 
-### A novice Python developer but an advanced creator and planner.
+**Python Developer in Progress · Creative Technologist · Idea Builder**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hot-hilux21&label=Profile views&color=0e75b6&style=flat" alt="hot-hilux21" /> </p>
+I enjoy turning ideas into projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hot-hilux21" alt="hot-hilux21" /></a> </p>
+I explore Python, artificial intelligence, game development, digital design, and accessibility.
 
-- 🔭 I'm currently working on **Accessible Coding: A Python-first IDE for accessibility (Light/Dark mode, dyslexic-friendly fonts, screen readers and much more!)**
+I'm still learning, but I bring curiosity, creativity, and a planner's mindset to the things I build.
 
-- 🌱 I'm currently learning **Artificial Intelligence and agentic coding 💀 (sorry guys. But, I have done manual assembly reverse engineering and OS scripting in the past. I do my vibe-coding responsibly!)**
+![Profile views](https://komarev.com/ghpvc/?username=hot-hilux21&label=Profile%20views&color=0e75b6&style=flat)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white)
 
-- 👯 I'm looking to collaborate on **open-source projects, and other things that make a difference**
+---
 
-- 🤝 I'm looking for help with **Receiving feedback for my main project **
+## ♿ My main project
 
-- 💬 Ask me about **AI workflows, malware analysis, consumer tech, real life stuff too. I have speciality in some aspects but I DO have an idea about almost anything!**
+### Accessible Coding
 
-- ⚡ Fun fact **I am a sweaty gamer, digital designer, hobbyist game developer with a few projects that I dip into from time to time...
+**A Python-first IDE designed with accessibility in mind.**
 
-And the people around me will say I am funny, helpful and a great supporter :)**
+I want to make coding easier to approach for people with different needs.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/hot-hilux21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hot-hilux21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Eesa Ibn Asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eesa Ibn Asif" height="30" width="40" /></a>
+Planned features include:
+
+- Dyslexia-friendly font options
+- Light and dark themes
+- Screen-reader support
+- A more accessible coding experience
+
+I'm building this idea with accessibility at its core.
+
+**Feedback is welcome!** I'd especially appreciate suggestions from developers, accessibility advocates, and people who use assistive technology.
+
+<!-- Replace YOUR-REPOSITORY with your actual repository name. -->
+[Explore Accessible Coding](https://github.com/hot-hilux21/YOUR-REPOSITORY)
+
+---
+
+## 🛠️ My tools
+
+These are tools I use, explore, or am learning.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,androidstudio,blender,unreal,photoshop" alt="Python, Git, Android Studio, Blender, Unreal Engine and Photoshop" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
+I also explore local AI models with Ollama.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hot-hilux21&show_icons=true&locale=en&layout=compact" alt="hot-hilux21" /></p>
+### Areas I'm interested in
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hot-hilux21&show_icons=true&locale=en" alt="hot-hilux21" /></p>
+- **Python:** scripting, automation, and software development.
+- **AI:** local models and AI-assisted coding.
+- **Technical research:** reverse engineering and malware analysis.
+- **Game development:** Unreal Engine and experimental game projects.
+- **Digital design:** creating visual assets and digital experiences.
+- **Accessibility:** making software easier for more people to use.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hot-hilux21&" alt="hot-hilux21" /></p>
+I'm learning all the time, and I'm happy to explore new tools.
 
+---
+
+## 🎮 Outside of coding
+
+I'm also a gamer, digital designer, and hobbyist game developer.
+
+I enjoy experimenting with new ideas and working on different projects.
+
+I like helping people, sharing ideas, and supporting other creators.
+
+And yes, I can spend a little too much time gaming. 💀
+
+---
+
+## 🤝 Let's collaborate
+
+I'm open to working with people on:
+
+- Open-source projects
+- Accessibility improvements
+- Creative software
+- AI and automation experiments
+- Projects that make a positive difference
+
+Have an idea or some feedback?
+
+I'd love to hear from you.
+
+<p>
+  <a href="https://github.com/hot-hilux21">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub projects" />
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hot-hilux21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="400" alt="GitHub contribution and repository statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hot-hilux21&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="320" alt="Most-used programming languages" />
+</p>
+
+---
+
+**Learning. Building. Improving. One project at a time.**
